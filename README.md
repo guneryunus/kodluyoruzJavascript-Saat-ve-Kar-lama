@@ -1,2 +1,2 @@
-# kodluyoruzJavascript-Saat-ve-Kar-lama
+# kodluyoruzJavascript-Saat-ve-Karsilama
 Javascript Saat ve Karşılama
